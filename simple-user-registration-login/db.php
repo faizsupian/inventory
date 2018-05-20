@@ -5,7 +5,7 @@ Website: http://www.allphptricks.com/
 */
 
 
-$con = mysqli_connect("localhost","root","","example");
+$con = mysqli_connect("sql12.freemysqlhosting.net","sql12238953","SfPa6nGPnm","sql12238953");
 // Check connection
 if (mysqli_connect_errno())
   {
